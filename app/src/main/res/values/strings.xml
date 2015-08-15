@@ -3,4 +3,11 @@
     <string name="hello_world">Hello Eunbi!!</string>
     <string name="action_settings">Settings</string>
     <string name="hello_everyone">Hello Everyone!</string>
+    <string name="title_activity_test_description">TestDescriptionActivity</string>
+    <string name="title_activity_test_description_activity_step2">TestDescriptionActivityStep2
+    </string>
+    <string name="title_activity_test_description_activity_step3">TestDescriptionActivityStep3
+    </string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
 </resources>
